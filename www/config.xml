@@ -11,6 +11,7 @@
     <access origin="*" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
+    <icon src="icons/app.png" width="128" height="128"/>
     <icon src="icons/android/ldpi.png"  gap:platform="android" gap:density="ldpi"  />
     <icon src="icons/android/mdpi.png"  gap:platform="android" gap:density="mdpi"  />
     <icon src="icons/android/hdpi.png"  gap:platform="android" gap:density="hdpi"  />
